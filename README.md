@@ -1,1 +1,1 @@
-# inkspace-eps-ai-export
+# Inkscape Ai Compatible Export .eps
